@@ -1,0 +1,1 @@
+print([pawe for pawe in range(0,25)])
